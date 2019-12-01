@@ -8,6 +8,7 @@ These recipes are broken up into the following rough categories (so far):
 
 * [breakfast](breakfast/)
 * [curries](curries/)
+* [instant pot](instant_pot/)
 * [preserves](preserves/)
 * [sauces](sauces/)
 * [soups](soups/)
