@@ -38,7 +38,7 @@ time:
 
 * Unordered list
 
-### Pairs well with
+### Pairs Well With
 
 * optional
 * link to existing recipe
