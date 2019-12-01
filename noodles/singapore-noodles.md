@@ -1,32 +1,29 @@
 ---
-title: Spicy Peanut Noodle Soup
+title: Singapore Noodles
 categories:
   - Chinese
-  - Sichuan
 yield:
   - 4 servings
-time:  
-  prep: 15 minutes
-  cook: 30 minutes
+time:
+  prep: 20 minutes
+  cook: 45 minutes
 ---
 ## Ingredients
 
 * 1 onion, chopped
-* 2 TBSP peanut oil
-* 3/4 CUP peanut butter (smooth or chunky is fine)
-* 1 TBSP Sichuan Peppercorns
-* 1/2 TBSP Black Peppercorns
-* 3 TSP Sugar
+* 2 TBSP oil
+* 2 TBSP madras curry powder (hot)
+* 1 TSP soy sauce
+* 1 TSP Shaoxing wine
+* 1/4 TSP sugar
+* 1/4 TSP white pepper
+* 1 egg fried in the wok, then chopped
+* 1 package rice stick/vermicelli noodles
+* shrimp
+* chicken
+* chinese roast pork (char siu)
+* 1/2 red bell pepper, julienned
 * Salt and Pepper to taste
-* 3 dry chili peppers, crushed
-* 3+ TSBP Sriracha sauce
-* 1 TSBP Fish sauce
-* 4 Cloves garlic, finely chopped
-* 1/2 package flat rice noodles
-* 1/2 inch cube frozen ginger, grated
-* 900 ml chicken broth
-* 750 ml water
-* 1 handful peanuts, finely chopped
 * green onion (garnish)
 
 ## Directions
@@ -44,3 +41,5 @@ time:
 A spicy peanut noodle soup inspired by the one at Spicy Noodle House in Osborne Village in Winnipeg. Did a "taste it then make it" date with my wife, and made the soup a week later. The level of heat can be adjusted by using more Sriracha sauce.
 
 Delicious!
+
+### Variations
