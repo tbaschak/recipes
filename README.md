@@ -11,4 +11,3 @@ These recipes are broken up into the following rough categories (so far):
 * [preserves](preserves/)
 * [sauces](sauces/)
 * [soups](soups/)
-
