@@ -1,5 +1,5 @@
 ---
-title: Butter Chicken
+title: Instant Pot Butter Chicken
 categories:
   - Indian
   - Curry
@@ -10,7 +10,8 @@ recipe:
   prep: 20 minutes
   cook: 45 minutes
   ingredients_markdown: |-
-    * 2 chicken breasts, cut into 1" cubes
+    * 2 chicken breasts, cut into large 3" cubes
+    * 1 cup chicken stock
     * 1 onion, chopped
     * few splashes oil
     * 1/2 TSP garam masala
@@ -29,23 +30,24 @@ recipe:
     * 14 oz can unsweetened coconut cream OR 
     * 250 ml heavy or half-and-half cream
   directions_markdown: |-
-    1. marinate the chicken cubes for 20-60 minutes in the 1/2+1/2+1/2+1/2 TSP of the following:
+    1. toss the chicken cubes in the 1/2+1/2+1/2+1/2 TSP of the following:
       * garam masala
       * tandoori masala
       * turmeric
       * chili powder
       * plus salt
-    2. after the chicken has marinated for 20+ minutes cook it, and then set it aside
-    3. caramelize onion in oil in a dutch oven or large pot
+    2. add the 2 cups chicken stock, pressure cook the chicken for 6-8 minutes, and do 10 minutes NPR, and then set it aside
+    3. caramelize onion in oil on saute
     4. drop dry spices into onion as it finishes caramelizing, cook spices in oil for a minute
-    5. add crushed tomatoes and the sugar, bring to a boil, then turn down, re-add chicken, and simmer for 10-20 minutes
-    6. add cream (or coconut cream), mix, and serve
+    5. add crushed tomatoes and the sugar, bring to a boil, and pressure sure cook for 3 minutes, and 3 minutes NPR
+    6. re-add chicken, and add cream (or coconut cream), mix, and serve with basmati rice
 ---
 This is my own take on butter chicken. It uses some elements of other dishes I really enjoy, and is spicier than what you'd get in a restaurant.
+
+When doing the butter chicken in the instant pot, I tend to use much larger chunks of chicken. Then I just hit it a few times with a wooden spoon in the bowl after so that it gets all the spices mixed up, and also ends up being kind of "pulled" . I usually add the cooking liquid to the bowl to keep it from drying out as well.
 
 Pairs well with basmati rice.
 
 Variations:
 
 * As mentioned, cream can be replaced with coconut cream
-* cook the chicken in the instant pot, and do the simmering under pressure in the instant pot
