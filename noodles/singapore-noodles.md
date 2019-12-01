@@ -27,25 +27,25 @@ time:
 * Salt and Pepper to taste
 * green onion (garnish)
 
-## Directions
+#### Optional Ingredients
 
-1. dry fry the Sichuan peppercorns for about 1 minute on medium heat, and finely grind them
-2. caramelize onion in peanut oil in a dutch oven or large pot
-3. add chicken stock and water, half the chopped peanuts, all the spices, garlic, grated ginger, peppers, Sriracha sauce, fish sauce and the peanut butter and bring to a boil
-4. simmer for 15 minutes
-5. add sugar, salt and pepper to taste (and additional Sriracha sauce to taste)
-6. bring a separate pot of water to boil, and cook the flat rice noodles as per packet instructions -- don't forget to run them under cool water after
-7. strain the peanut soup and serve with the noodles, green onion and peanut to garnish
+* unordered list
+
+## Instructions
+
+1. Numbered list starting with pre heating or other prep instructions. Preheat the oven to 375. 
+2. End with how long to cook and/or serving instructions.
 
 ### Variations
 
-* Use just chicken, or shrimp, or both
-* Omit Pork
+* Unordered list
 
 ### Pairs Well With
 
-* ????
+* optional
+* link to existing recipe
+* or list food/drinks to pair with
 
 ## Additional Information
 
-A spicy peanut noodle soup inspired by the one at Spicy Noodle House in Osborne Village in Winnipeg. Did a "taste it then make it" date with my wife, and made the soup a week later. The level of heat can be adjusted by using more Sriracha sauce.
+Longform paragraphs story form.

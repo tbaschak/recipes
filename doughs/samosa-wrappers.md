@@ -4,6 +4,7 @@ title: Samosa Wrappers
 categories:
   - Indian
   - Appetizers
+  - Pastries
 yield:
   - x servings
 time:  
