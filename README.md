@@ -16,3 +16,9 @@ These recipes are broken up into the following rough categories (so far):
 * [Rice & Rice Dishes](rice/)
 * [Sauces](sauces/)
 * [Soups](soups/)
+
+## Building Instructions
+
+There is templates that should be copied into your `~/.pandoc/templates/` directory in [pandoc-templates](pandoc-templates/).
+
+After that, simply run `make` to build both PDF and HTML, or `make html` to just build HTML files.
