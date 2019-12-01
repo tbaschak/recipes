@@ -11,6 +11,7 @@ These recipes are broken up into the following rough categories (so far):
 * [Curries](curries/)
 * [Doughs](doughs/)
 * [Instant Pot Specific](instant_pot/)
+* [Noodles](noodles/)
 * [Preserves](preserves/)
 * [Rice & Rice Dishes](rice/)
 * [Sauces](sauces/)
