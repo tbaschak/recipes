@@ -12,7 +12,7 @@ all: clean $(HTMLOBJS) $(PDFOBJS)
 	@echo HTML and PDF generated
 
 %.pdf:	%.md
-	$(PANDOC) $(PDFLAGS) $< -o $@
+	$(PANDOC) $(PDFFLAGS) $< -o $@
 
 pdf: cleanpdf $(PDFOBJS)
 
