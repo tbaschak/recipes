@@ -3,6 +3,7 @@ title: Spicy Peanut Noodle Soup
 categories:
   - Chinese
   - Sichuan
+  - Soups
 yield:
   - 4 servings
 time:  
