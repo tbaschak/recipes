@@ -8,7 +8,7 @@ image: ""
 recipe:
   servings: 4-6 bowls
   prep: 20 minutes
-  cook: 45 minutes
+  cook: 30 minutes
   ingredients_markdown: |-
     * 2 chicken breasts, cut into large 3" cubes
     * 1 cup chicken stock
@@ -30,16 +30,16 @@ recipe:
     * 14 oz can unsweetened coconut cream OR 
     * 250 ml heavy or half-and-half cream
   directions_markdown: |-
-    1. toss the chicken cubes in the 1/2+1/2+1/2+1/2 TSP of the following:
+    1. put the large chicken cubes on the trivet and sprinkle a 1/2 + 1/2 + 1/2 + 1/2 TSP of the following on top, you may use more if the top of the chicken isn't well covered. the chicken stock may wash away some of this as well if you don't have a very tall trivet:
       * garam masala
       * tandoori masala
       * turmeric
       * chili powder
       * plus salt
-    2. add the 2 cups chicken stock, pressure cook the chicken for 6-8 minutes, and do 10 minutes NPR, and then set it aside
+    2. add the 2 cups chicken stock, pressure cook the chicken for 6-8 minutes, and do 10 minutes NPR, and then set it aside. clean pot quickly.
     3. caramelize onion in oil on saute
     4. drop dry spices into onion as it finishes caramelizing, cook spices in oil for a minute
-    5. add crushed tomatoes and the sugar, bring to a boil, and pressure sure cook for 3 minutes, and 3 minutes NPR
+    5. add crushed tomatoes and the sugar, bring to a boil, and pressure cook for 3 minutes, and 3 minutes NPR
     6. re-add chicken, and add cream (or coconut cream), mix, and serve with basmati rice
 ---
 This is my own take on butter chicken. It uses some elements of other dishes I really enjoy, and is spicier than what you'd get in a restaurant.
