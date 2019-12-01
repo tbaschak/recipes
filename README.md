@@ -12,5 +12,6 @@ These recipes are broken up into the following rough categories (so far):
 * [Doughs](doughs/)
 * [Instant Pot Specific](instant_pot/)
 * [Preserves](preserves/)
+* [Rice & Rice Dishes](rice/)
 * [Sauces](sauces/)
 * [Soups](soups/)
