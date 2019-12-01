@@ -1,4 +1,5 @@
 ---
+status: draft or in-testing
 title: Recipe Name
 categories:
   - Chinese
@@ -12,6 +13,7 @@ categories:
   - Breakfast
   - Sauces
   - Southern
+  - Appetizers
 yield:
   - x servings
 time:  
