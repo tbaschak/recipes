@@ -45,13 +45,15 @@ time:
 5. add crushed tomatoes and the sugar, bring to a boil, then turn down, re-add chicken, and simmer for 10-20 minutes
 6. add cream (or coconut cream), mix, and serve
 
-### The Weather
-
-This is my own take on butter chicken. It uses some elements of other dishes I really enjoy, and is spicier than what you'd get in a restaurant.
-
-Pairs well with basmati rice.
-
 ### Variations
 
 * As mentioned, cream can be replaced with coconut cream
 * cook the chicken in the instant pot, and do the simmering under pressure in the instant pot
+
+### Pairs Well With
+
+* Basmati Rice
+
+## Additional Information
+
+This is my own take on butter chicken. It uses some elements of other dishes I really enjoy, and is spicier than what you'd get in a restaurant.

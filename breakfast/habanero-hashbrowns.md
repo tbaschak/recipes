@@ -25,7 +25,15 @@ time:
 4. add garlic and habanero, seasoning salt and pepper and other spices to taste (garlic and onion powder are excellent here)
 5. fry hash browns until they're crispy
 
-### The Weather
+### Variations
+
+* Scotch Bonnets.
+
+### Pairs Well With
+
+* Other breakfast
+
+## Additional Information
 
 A very spicy breakfast hash brown. Really wakes you up!
 

@@ -33,8 +33,16 @@ time:
 9. Remove from heat.
 10. When jars are completely cooled, check seals by pressing centers of lids with your finger. If the lids pop back up afterwards, they are not sealed, and will need to be used first and/or refrigerated.
 
+### Variations
 
-### The Weather 
+*	For a less fiery jelly, use a less hot pepper.
+*	For a non-fiery jelly use only sweet peppers.
+
+### Pairs Well With
+
+* brie cheese
+
+## Additional Information
 
 Pepper jelly isn't a very common thing in Canada, and I had never even heard of one until in my early 30's. I was instantly addicted. Now that I am enjoying cooking more I thought I should make one. It turned out, a wonderful orange color with an amazing sweet heat. It is excellent on crackers with a baked brie, or as a glaze for a pork tenderloin.
 
@@ -49,9 +57,3 @@ Cook the peppers over high heat in the cidar vinegar and pectin.
 Fill the jars by spooning peppers into each jar first to ensure that each jar gets about an equal amount of peppers. Then the rest of the jelly can be ladeled or very carefully poured into the jars.
 
 Sealing the jars happens in the canning process. With the water hot, but not boiling yet, place the jars in the canning pot. Ensure that water is at least up to the top of the jars, then bring to a boil for 5 minutes. Remove from heat and let cool. The lids will not spring back up when pressed if they are sealed. Jars that aren't sealed should be refrigerated. 
-
-### Variations
-
-*	For a less fiery jelly, use a less hot pepper.
-*	For a non-fiery jelly use only sweet peppers.
-

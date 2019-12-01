@@ -36,10 +36,15 @@ time:
 6. bring a separate pot of water to boil, and cook the flat rice noodles as per packet instructions -- don't forget to run them under cool water after
 7. strain the peanut soup and serve with the noodles, green onion and peanut to garnish
 
-### The Weather
+### Variations
+
+* Use just chicken, or shrimp, or both
+* Omit Pork
+
+### Pairs Well With
+
+* ????
+
+## Additional Information
 
 A spicy peanut noodle soup inspired by the one at Spicy Noodle House in Osborne Village in Winnipeg. Did a "taste it then make it" date with my wife, and made the soup a week later. The level of heat can be adjusted by using more Sriracha sauce.
-
-Delicious!
-
-### Variations

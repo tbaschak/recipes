@@ -31,8 +31,15 @@ time:
 4. use immersion blender to blend sauce
 5. fill one jar and seal it, and put the remainder in a jar in your fridge
 
-### The Weather
+### Variations
+
+* ???
+
+### Pairs Well With
+
+* Chicken
+* Pork
+
+## Additional Information
 
 A very spicy peach BBQ sauce. Excellent when grilling chicken or pork.
-
-Delicious!

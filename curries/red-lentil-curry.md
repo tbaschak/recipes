@@ -41,7 +41,17 @@ time:
 8. add the lentils
 9. bring to a boil, then turn down and simmer until the lentils pop (red lentils don’t take long)
 
-### The Weather
+### Variations
+
+*	Swap out red lentils for other types of lentils, or even split peas.
+*	Add more vegetable broth (or water), or less lentils to make more of a soup.
+*	Replace Thai peppers with other types of peppers for a milder dish (or remove some of all of the seeds using mostly just Thai pepper skin/flesh). Thai peppers with seeds make a dish thats hotter than a "5".
+
+### Pairs Well With
+
+* Basmati Rice
+
+## Additional Information
 
 A rich and spicy curry dish which is often paired with rice. Lentils are a staple in India, and a relatively high source of vegetarian protein. The level of heat can be adjusted by using different peppers instead of Thai peppers. This dish borders being a stew, the balance can also be tipped more towards soup by adding more broth or less lentils.
 
@@ -50,10 +60,4 @@ Grinding your own curry spices in a mortal and pestle is an excellent way to mix
 Having the coconut milk ready to pour in once the curry spices are cooked with the onion and oil helps ensure you don't burn your mix.
 
 Delicious!
-
-### Variations
-
-*	Swap out red lentils for other types of lentils, or even split peas.
-*	Add more vegetable broth (or water), or less lentils to make more of a soup.
-*	Replace Thai peppers with other types of peppers for a milder dish (or remove some of all of the seeds using mostly just Thai pepper skin/flesh). Thai peppers with seeds make a dish thats hotter than a "5".
 

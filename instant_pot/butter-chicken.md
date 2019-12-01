@@ -46,15 +46,17 @@ time:
 5.  add crushed tomatoes and the sugar, bring to a boil, and pressure cook for 3 minutes, and 3 minutes NPR
 6.  re-add chicken, and add cream (or coconut cream), mix, and serve with basmati rice
 
-### The Weather
-
-This is my own take on butter chicken. It uses some elements of other dishes I really enjoy, and is spicier than what you'd get in a restaurant.
-
-When doing the butter chicken in the instant pot, I tend to use much larger chunks of chicken. Then I just hit it a few times with a wooden spoon in the bowl after so that it gets all the spices mixed up, and also ends up being kind of "pulled" . I usually add the cooking liquid to the bowl to keep it from drying out as well.
-
-Pairs well with basmati rice.
-
 ### Variations
 
 * Heavy (whipping) cream is fine, as is half-and-half cream
 * Cream can be replaced with coconut cream
+
+### Pairs Well With
+
+* Basmati Rice
+
+## Additional Information
+
+This is my own take on butter chicken. It uses some elements of other dishes I really enjoy, and is spicier than what you'd get in a restaurant.
+
+When doing the butter chicken in the instant pot, I tend to use much larger chunks of chicken. Then I just hit it a few times with a wooden spoon in the bowl after so that it gets all the spices mixed up, and also ends up being kind of "pulled" . I usually add the cooking liquid to the bowl to keep it from drying out as well.
